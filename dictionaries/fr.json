@@ -1,0 +1,89 @@
+{
+  "navigation": 
+    [
+      {
+        "name" : "Acceuil",
+        "id": "#home"
+      },
+      {
+        "name" : "À propos",
+        "id": "#about"
+      },
+      {
+        "name" : "Projets",
+        "id": "#projects"
+      },
+      {
+        "name" : "Contact",
+        "id": "#contact"
+      }
+  ]
+  ,
+  "hero": {
+    "name": "Bonjour, Je m'appele ZAKARIA SDIK",
+    "age": "j'ai 23 ans",
+    "specialiste": "Je suis un full-stack developer",
+    "description": "Un développeur Web orienté full-stack construisant des sites Web et d'applications Web contribuant au succès global du produit.",
+    "cv" : "Telecharger mon cv"
+  },
+  "about": {
+    "title" : "À propos de moi",
+    "subtitle1" : "Apprenez à me connaître !",
+    "aboutme" : "Salut ! Je suis Zakaria Sdik, un développeur web créatif et passionné, spécialisé dans la création d'expériences en ligne captivantes et fonctionnelles. Mon objectif est de transformer des idées en réalité numérique en utilisant les dernières technologies et les meilleures pratiques du développement web.",
+    "subtitle2": "Mes compétences"
+  },
+  "projects": {
+    "title" : "PROJETS",
+    "project": [
+      {
+        "id": 1,
+        "title" : "Gestion scolaire",
+        "link": "http://manageecole.infinityfreeapp.com",
+        "picture": "https://i.ibb.co/3h8HhpP/ecole.png",
+        "btn": "visit",
+        "login": "admin",
+        "pass": "Zakaria123-",
+        "description": "Le projet de gestion scolaire vise à améliorer l'efficacité et la coordination des opérations au sein des établissements éducatifs. Il propose des solutions informatiques intégrées pour la planification, l'inscription des élèves et des enseignants, les paiements des enseignants, etc."
+      },
+      {
+        "id": 2,
+        "title" : "Interface commercial d'ecole",
+          "link": "http://manageecole.infinityfreeapp.com",
+        "picture": "https://i.ibb.co/nmLSKLS/lndingpge.png",
+        "btn": "visit",
+        "description": "C'est une interface responsive ou on affichons des informations sur l'école."
+      },
+      {
+        "id": 3,
+        "title" : "LTG: transport de marchandise",
+        "picture": "https://i.ibb.co/hcsRPVS/ltg.png",
+          "link": "http://ltgtransport.infinityfreeapp.com",
+        "btn": "visit",
+        "login": "admin",
+        "pass": "123456",
+        "description": "La gestion du transport de marchandises est une tâche complexe. Afin de faciliter cette tâche, j'ai développé une application web pour la gestion du transport de marchandises. Cette application permet la gestion de l'ensemble du processus logistique, de la prise en charge des marchandises à leur livraison, en passant par le transport et le stockage. "
+      },
+      {
+        "id": 4,
+        "title" : "TODO app",
+        "picture": "https://i.ibb.co/TbNWsh6/todo.png",
+          "link": "http://todoapp.lovestoblog.com/todoApp/pages/authentification/login.php",
+        "btn": "visit",
+        "login": "foot.ball.american123@gmail.com",
+        "pass": "Zakaria123-",
+        "description": "Ce projet a pour objectif de créer une application pratique qui permettra aux utilisateurs de gérer leurs tâches quotidiennes de manière efficace. "
+      }
+    ] 
+  },
+  "contact": {
+    "title1": "Nom",
+    "placeholder1": "Entrer votre nom",
+    "title2": "Email",
+    "placeholder2": "Entrer votre Email",
+    "title3": "Message",
+    "placeholder3": "Entrer votre message Message"
+  },
+  "footer": {
+    "copyright": "Creer par"
+  }
+  }

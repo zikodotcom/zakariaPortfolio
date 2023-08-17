@@ -1,0 +1,87 @@
+{
+    "navigation":     [
+      {
+        "name" : "Home",
+        "id": "#home"
+      },
+      {
+        "name" : "About",
+        "id": "#about"
+      },
+      {
+        "name" : "Projects",
+        "id": "#projects"
+      },
+      {
+        "name" : "Contact",
+        "id": "#contact"
+      }
+  ],
+    "hero": {
+        "name": "HEY, My name is ZAKARIA SDIK",
+        "age": "I'm 23 years old",
+        "specialiste": "I'm a full-stack developer",
+        "description": "A full-stack focused Web Developer building Websites and Web Applications that leads to the success of the overall product.",
+        "cv" : "download my cv"
+    },
+    "about": {
+      "title" : "About me",
+      "subtitle1" : "Get to know me!",
+      "aboutme" : "Hello! I'm Zakaria Sdik, a creative and passionate web developer, specialized in crafting engaging and functional online experiences. My goal is to transform ideas into digital reality using the latest technologies and best practices in web development.",
+      "subtitle2": "My Skills"
+    },
+    "projects": {
+      "title" : "PROJECTS",
+      "project": [
+        {
+          "id": 1,
+          "title" : "School managment",
+          "link": "http://manageecole.infinityfreeapp.com",
+          "picture": "https://i.ibb.co/3h8HhpP/ecole.png",
+          "btn": "visite",
+          "login": "admin",
+          "pass": "Zakaria123-",
+          "description": "The school management project aims to enhance the efficiency and coordination of operations within educational institutions. It offers integrated IT solutions for scheduling, student and teacher registration, teacher payments, etc."
+        },
+        {
+          "id": 2,
+          "title" : "School landing page",
+          "link": "http://manageecole.infinityfreeapp.com",
+          "picture": "https://i.ibb.co/nmLSKLS/lndingpge.png",
+          "btn": "visite",
+          "description": "It's a responsive interface when we display information about the school."
+        },
+        {
+          "id": 3,
+          "title" : "LTG: transport de marchandise",
+          "link": "http://ltgtransport.infinityfreeapp.com",
+          "picture": "https://i.ibb.co/hcsRPVS/ltg.png",
+          "btn": "visite",
+          "login": "admin",
+          "pass": "123456",
+          "description": "The management of goods transportation is a complex task. In order to facilitate this task, I have developed a web application for the management of goods transportation. This application allows for the management of the entire logistical process, from the pickup of goods to their delivery, including transportation and storage. "
+        },
+        {
+          "id": 4,
+          "title" : "TODO app",
+          "picture": "https://i.ibb.co/TbNWsh6/todo.png",
+            "link": "http://todoapp.lovestoblog.com/todoApp/pages/authentification/login.php",
+          "btn": "visit",
+          "login": "foot.ball.american123@gmail.com",
+          "pass": "Zakaria123-",
+          "description": "This project aims to create a practical application that will allow users to manage their daily tasks efficiently. "
+        }
+      ] 
+    },
+    "contact": {
+      "title1": "Name",
+      "placeholder1": "Enter your Name",
+      "title2": "Email",
+      "placeholder2": "Enter your Email",
+      "title3": "Message",
+      "placeholder3": "Enter your Message"
+    },
+    "footer": {
+      "copyright": "Made by"
+    }
+  }
