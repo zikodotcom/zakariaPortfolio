@@ -6,7 +6,7 @@ export default async function Hero({ lng}) {
     const {hero} = await getDictionary(lng) 
   return (
     <>
-    <HeroC hero={hero}/>
+    <HeroC hero={hero} lang={lng}/>
     </>
   )
 }
