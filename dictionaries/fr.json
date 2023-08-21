@@ -38,7 +38,7 @@
       {
         "id": 1,
         "title" : "Gestion scolaire",
-        "link": "http://manageecole.infinityfreeapp.com",
+        "link": "http://manageecole.infinityfreeapp.com/ecole",
         "picture": "https://i.ibb.co/3h8HhpP/ecole.png",
         "btn": "visit",
         "login": "admin",
