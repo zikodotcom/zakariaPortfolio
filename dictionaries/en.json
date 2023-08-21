@@ -79,7 +79,8 @@
       "title2": "Email",
       "placeholder2": "Enter your Email",
       "title3": "Message",
-      "placeholder3": "Enter your Message"
+      "placeholder3": "Enter your Message",
+      "alertMsg" : "Your email sent successfully"
     },
     "footer": {
       "copyright": "Made by"

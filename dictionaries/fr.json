@@ -81,7 +81,8 @@
     "title2": "Email",
     "placeholder2": "Entrer votre Email",
     "title3": "Message",
-    "placeholder3": "Entrer votre message Message"
+    "placeholder3": "Entrer votre message Message",
+    "alertMsg" : "Votre email a été envoyé avec succès."
   },
   "footer": {
     "copyright": "Creer par"
